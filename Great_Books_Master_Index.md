@@ -13,7 +13,6 @@ last_modified: 2026-04-30
 | Spinoza | Tractatus Theologico-Politicus | Early Modern | /Volumes/16tb Back/Library/Philosophy/Spinoza/Spinoza_Tractatus_Theologico-Politicus_Elwes_translation_circa_1900.txt | Project Gutenberg | ✓ (in Philosophy/) |
 | Spinoza | On the Improvement of Understanding | Early Modern | /Volumes/16tb Back/Library/Philosophy/Spinoza/Spinoza_On_the_Improvement_of_Understanding_Elwes_translation_circa_1900.txt | Project Gutenberg | ✓ (in Philosophy/) |
 | Descartes | Meditations on First Philosophy | Early Modern | /Volumes/16tb Back/Library/Philosophy/Descartes/Descartes_Meditations_on_First_Philosophy_Veitch_translation_circa_1901.epub | Standard Ebooks | ✓ (in Philosophy/) |
-| Descartes | Discourse on Method | Early Modern | /Volumes/16tb Back/Library/Philosophy/Descartes_Discourse_on_Method.epub | Standard Ebooks | ✗ MISSING — see Great_Books_Missing_Sources.md |
 | Descartes | Rules for the Direction of the Mind | Early Modern | /Volumes/16tb Back/Library/Philosophy/Descartes/Descartes_Rules_for_the_Direction_of_the_Mind.txt | Internet Archive | ✓ (in Philosophy/) |
 | Locke | An Essay Concerning Human Understanding | Early Modern | /Volumes/16tb Back/Library/Philosophy/Locke/Locke_An_Essay_Concerning_Human_Understanding_Vol1.txt | Project Gutenberg | ✓ (in Philosophy/) |
 | Locke | A Letter Concerning Toleration | Early Modern | /Volumes/16tb Back/Library/Philosophy/Locke/Locke_A_Letter_Concerning_Toleration_Popple_translation.pdf | Project Gutenberg | ✓ (in Philosophy/) |
@@ -45,8 +44,6 @@ last_modified: 2026-04-30
 | Euripides | The Bacchae | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Euripides/Euripides_Medea_The_Bacchae.txt | Project Gutenberg | ✓ |
 | Plutarch | Parallel Lives | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Plutarch/Plutarch_Parallel_Lives.txt | Project Gutenberg | ✓ |
 | Marcus Aurelius | Meditations | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Marcus_Aurelius/Marcus_Aurelius_Meditations.txt | Project Gutenberg | ✓ |
-| Epictetus | Discourses | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Epictetus/Epictetus_Discourses_Enchiridion.txt | Project Gutenberg | ✓ |
-| Epictetus | Enchiridion | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Epictetus/Epictetus_Discourses_Enchiridion.txt | Project Gutenberg | ✓ |
 | Lucretius | On the Nature of Things | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Lucretius/Lucretius_On_the_Nature_of_Things.txt | Project Gutenberg | ✓ |
 | Virgil | Aeneid | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Virgil/Virgil_Aeneid.txt | Project Gutenberg | ✓ |
 | Cicero | On Duties | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Cicero/Cicero_On_Duties.txt | Project Gutenberg (ID 47001) | ✓ |
@@ -60,9 +57,6 @@ last_modified: 2026-04-30
 | Newton | Opticks | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Newton/Newton_Opticks.pdf | Internet Archive | ✓ |
 | Leibniz | Monadology | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Leibniz/Leibniz_The_Monadology_and_Other_Philosophical_Writings.pdf | Internet Archive  | ✓ |
 | Leibniz | Discourse on Metaphysics | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Leibniz/Leibniz_Discourse_on_Metaphysics.pdf | Internet Archive | ✓ |
-| Swift | Gulliver's Travels | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Swift/Swift_Gulliver's_Travels.epub | Project Gutenberg | ✗ MISSING — see Great_Books_Missing_Sources.md |
-| Gibbon | Decline and Fall (abridged) | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Gibbon/Gibbon_Decline_and_Fall.epub | Project Gutenberg | ✗ MISSING — see Great_Books_Missing_Sources.md |
-| Hamilton, Madison, J | Federalist Papers | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Federalist_Papers/Federalist_Papers.epub | Project Gutenberg | ✗ MISSING — see Great_Books_Missing_Sources.md |
 | Freud | Interpretation of Dreams | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Freud/Freud_Interpretation_of_Dreams.pdf | Internet Archive | ✓ |
 | Freud | Civilization and Its Discontents | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Freud/Freud_Civilization_and_Its_Discontents.pdf | Internet Archive | ✓ |
 | Aristotle | Physics | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Aristotle/Aristotle_Physics.txt | Project Gutenberg ID 6762 | ✓ |
@@ -164,3 +158,7 @@ last_modified: 2026-04-30
 | Vatsyayana | The Kama Sutra of Vatsyayana | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Vatsyayana/Vatsyayana_The_Kama_Sutra_of_Vatsyayana.txt | Project Gutenberg ID 27827 | ✓ |
 | Tagore, Rabindranath | Gitanjali | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Tagore,_Rabindranath/Tagore,_Rabindranath_Gitanjali.txt | Project Gutenberg ID 7164 | ✓ |
 | Spence, Lewis | The Popol Vuh | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Spence,_Lewis/Spence,_Lewis_The_Popol_Vuh.txt | Project Gutenberg ID 56550 | ✓ |
+| Descartes | Discourse on Method | Early Modern | /Volumes/16tb Back/Library/Philosophy/Descartes/Descartes_Discourse_on_Method.txt | Project Gutenberg (corrected path) | ✓ |
+| Swift | Gulliver's Travels | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Swift/Swift_Gullivers_Travels.txt | Project Gutenberg (corrected path) | ✓ |
+| Hamilton, Madison, Jay | Federalist Papers | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Federalist_Papers/Federalist_Papers.txt | Project Gutenberg (corrected path) | ✓ |
+| Epictetus | Discourses and Enchiridion | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Epictetus/Epictetus_Discourses_and_Enchiridion.txt | Project Gutenberg ID 10661 | ✓ |
