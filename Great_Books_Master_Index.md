@@ -175,3 +175,16 @@ last_modified: 2026-04-30
 | Hebrew Bible | Hebrew Bible (ASV) | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Hebrew_Bible/Hebrew_Bible_ASV.txt | American Standard Version (1901), scrollmapper/bible_databases GitHub | ✓ |
 | Xunzi | Collected Works | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Confucian/Xunzi.txt | Archive.org (Dubs 1928, Probsthain Oriental Series Vol. XVI) | ✓ |
 | Kabbalah | Sefer Yetzirah | Medieval | /Volumes/16tb Back/Library/Great_Books/Medieval/Kabbalah/Sefer_Yetzirah.txt | https://archive.org/details/1877-kalisch-sepher-yezirah | ✓ |
+| Mathers, S.L. MacGregor | The Kabbalah Unveiled (Zohar: Book of Concealed Mystery, Greater & Lesser Holy Assembly) | Medieval | /Volumes/16tb Back/Library/Great_Books/Medieval/Kabbalah/Mathers_Kabbalah_Unveiled_1887.epub | Archive.org (The_Kabbalah_Unveiled_-_S_L_Mac_Gregor_Mathers) — 1887 translation from Knorr von Rosenroth's Latin Kabbala Denudata | ⚠ EPUB — run extract_epub_text.py before ingest |
+| Hermes Trismegistus | Thrice-Greatest Hermes, Vol. 1 — Prolegomena (Mead 1906) | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Hermetica/Mead_Thrice_Greatest_Hermes_Vol1_1906.epub | Archive.org (thricegreatesthe01hermuoft) — G.R.S. Mead trans., Theosophical Publishing Society 1906 | ⚠ EPUB — run extract_epub_text.py before ingest |
+| Hermes Trismegistus | Thrice-Greatest Hermes, Vol. 2 — Corpus Hermeticum (Mead 1906) | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Hermetica/Mead_Thrice_Greatest_Hermes_Vol2_1906.txt | Archive.org (GRSMeadThriceGreatestHermesVolII) — DjVu OCR | ✓ |
+| Hermes Trismegistus | Thrice-Greatest Hermes, Vol. 3 — Excerpts & Fragments (Mead 1906) | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Hermetica/Mead_Thrice_Greatest_Hermes_Vol3_1906.txt | Archive.org (GRSMeadThriceGreatestHermesVolIII) — DjVu OCR | ✓ |
+| Stirner, Max | The Ego and Its Own (Byington 1907) | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Stirner/Stirner_Ego_and_Its_Own_Byington_1907.txt | Archive.org (StirnerTheEgoAndItsOwn) — Cambridge Texts edition of Byington trans. — DjVu OCR | ✓ |
+| Clausewitz, Carl von | On War (Graham/Maude 1873/1908) | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Clausewitz/Clausewitz_On_War_Graham_1873.txt | Project Gutenberg ID 1946 — J.J. Graham 1873 trans., rev. F.N. Maude 1908 | ✓ |
+
+## Known Acquisition Gaps (PD English translation unavailable)
+
+| Author | Work | Reason | Notes |
+| :--- | :--- | :--- | :--- |
+| Nagarjuna | Mūlamadhyamakakārikā | No PD English translation — all complete English translations post-1928 (Inada 1970, Kalupahana 1986, Garfield 1995) | Closest PD: SBE Vol 49 covers other Mahayana texts but not MMK. Consider Walleser biography 1923 as partial substitute. |
+| Vico, Giambattista | New Science (Scienza Nuova) | No pre-1928 English translation — canonical Bergin/Fisch trans. is 1948 (copyright until 2043) | Italian original (1744) is PD; no usable English equivalent found. |
