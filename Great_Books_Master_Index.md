@@ -170,3 +170,6 @@ last_modified: 2026-04-30
 | Schopenhauer | World as Will and Representation | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Schopenhauer/Schopenhauer_World_as_Will_and_Representation.txt | Archive.org (worldaswillidea01schoiala) | ✓ |
 | Al-Ghazali | Al_Ghazali_Incoherence | Medieval | /Volumes/16tb Back/Library/Great_Books/Medieval/Al_Ghazali/Al_Ghazali_Incoherence.txt | Archive.org (Kamali 1963) | ✓ |
 | Heraclitus | Fragments | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Heraclitus/Heraclitus_Fragments.txt | Archive.org — Burnet Early Greek Philosophy (1920 ed.) | ✓ |
+| Ibn Khaldun | Muqaddimah | Medieval | /Volumes/16tb Back/Library/Great_Books/Medieval/Ibn_Khaldun/Ibn_Khaldun_Muqaddimah.txt | Archive.org | ✓ |
+| Kierkegaard | Fear and Trembling | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Kierkegaard/Kierkegaard_Fear_and_Trembling.txt | Archive.org | ✓ |
+| Hebrew Bible | Hebrew Bible (ASV) | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Hebrew_Bible/Hebrew_Bible_ASV.txt | American Standard Version (1901), scrollmapper/bible_databases GitHub | ✓ |
