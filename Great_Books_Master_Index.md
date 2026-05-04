@@ -164,3 +164,9 @@ last_modified: 2026-04-30
 | Epictetus | Discourses and Enchiridion | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Epictetus/Epictetus_Discourses_and_Enchiridion.txt | Project Gutenberg ID 10661 | ✓ |
 | Kant | Perpetual Peace | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Kant/Kant_Perpetual_Peace.txt | Project Gutenberg ID 50922 | ✓ |
 | Turgenev | Fathers and Sons | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Turgenev/Turgenev_Fathers_and_Sons.txt | Project Gutenberg ID 47935 | ✓ |
+| Dostoevsky | The Possessed | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Dostoevsky/Dostoevsky_The_Possessed.txt | Project Gutenberg ID 8117 | ✓ |
+| Plotinus | Enneads | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Plotinus/Plotinus_Enneads_MacKenna.txt | Archive.org — MacKenna trans. 1917 (OCR quality) | ✓ |
+| Hegel | Philosophy of History | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Hegel/Hegel_Philosophy_of_History.txt | Archive.org (1857 Sibree) | ✓ |
+| Schopenhauer | World as Will and Representation | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Schopenhauer/Schopenhauer_World_as_Will_and_Representation.txt | Archive.org (worldaswillidea01schoiala) | ✓ |
+| Al-Ghazali | Al_Ghazali_Incoherence | Medieval | /Volumes/16tb Back/Library/Great_Books/Medieval/Al_Ghazali/Al_Ghazali_Incoherence.txt | Archive.org (Kamali 1963) | ✓ |
+| Heraclitus | Fragments | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Heraclitus/Heraclitus_Fragments.txt | Archive.org — Burnet Early Greek Philosophy (1920 ed.) | ✓ |
