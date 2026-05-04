@@ -1,0 +1,8 @@
+# Obsidian working files
+.obsidian/
+*.bak
+*.bak-*
+
+# OS
+.DS_Store
+Thumbs.db
