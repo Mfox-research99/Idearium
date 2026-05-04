@@ -162,3 +162,5 @@ last_modified: 2026-04-30
 | Swift | Gulliver's Travels | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Swift/Swift_Gullivers_Travels.txt | Project Gutenberg (corrected path) | ✓ |
 | Hamilton, Madison, Jay | Federalist Papers | Early Modern | /Volumes/16tb Back/Library/Great_Books/Early_Modern/Federalist_Papers/Federalist_Papers.txt | Project Gutenberg (corrected path) | ✓ |
 | Epictetus | Discourses and Enchiridion | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Epictetus/Epictetus_Discourses_and_Enchiridion.txt | Project Gutenberg ID 10661 | ✓ |
+| Kant | Perpetual Peace | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Kant/Kant_Perpetual_Peace.txt | Project Gutenberg ID 50922 | ✓ |
+| Turgenev | Fathers and Sons | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Turgenev/Turgenev_Fathers_and_Sons.txt | Project Gutenberg ID 47935 | ✓ |
