@@ -173,3 +173,4 @@ last_modified: 2026-04-30
 | Ibn Khaldun | Muqaddimah | Medieval | /Volumes/16tb Back/Library/Great_Books/Medieval/Ibn_Khaldun/Ibn_Khaldun_Muqaddimah.txt | Archive.org | ✓ |
 | Kierkegaard | Fear and Trembling | Modern | /Volumes/16tb Back/Library/Great_Books/Modern/Kierkegaard/Kierkegaard_Fear_and_Trembling.txt | Archive.org | ✓ |
 | Hebrew Bible | Hebrew Bible (ASV) | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Hebrew_Bible/Hebrew_Bible_ASV.txt | American Standard Version (1901), scrollmapper/bible_databases GitHub | ✓ |
+| Xunzi | Collected Works | Ancient | /Volumes/16tb Back/Library/Great_Books/Ancient/Confucian/Xunzi.txt | Archive.org (Dubs 1928, Probsthain Oriental Series Vol. XVI) | ✓ |
